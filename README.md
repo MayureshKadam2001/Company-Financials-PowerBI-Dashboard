@@ -23,7 +23,7 @@ An interactive Power BI dashboard developed to analyze company financial perform
 
 ### Page 1
 
-![Dashboard Page 1](screenshots/dashboard-page-1.png)
+![Dashboard Page 1](Company Financials Page 1.png)
 
 ### Page 2
 
